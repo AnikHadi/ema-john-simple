@@ -1,0 +1,35 @@
+.header{
+    text-align: left;
+}
+.brand-logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.brand-logo img {
+    width: 300px;
+}
+.nav-link {
+    width: 100%;
+    padding-left: 20px; 
+    background-color: black;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px;
+}
+nav a:hover{
+    color: white;
+    background-color: #d3d3d393;
+}
+.search-input {
+    background-color: #000000d8;
+    padding: 20px 0;
+}
+.search-input input{
+   line-height: 10px;
+   width: 75%;
+   margin-left: 150px;
+
+}
